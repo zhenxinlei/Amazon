@@ -48,5 +48,12 @@
 		</table>
  
 	</form>
+	<a href="<c:url value="/registration"/>"> Create Account </a>
+	<%-- <form name='f' action="<c:url value='/login.jsp' />"
+		method='POST'>
+		<input name="registration" type="submit"  value="Registration">  </input>
+	</form> --%>
+	<!-- <input type="button" value="Registration" onClick="/Amazon/registration"> -->
+	
 </body>
 </html>
